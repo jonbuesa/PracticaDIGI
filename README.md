@@ -14,7 +14,6 @@ practica DIGI - Entrega 18/03
           - Cambiamos el sql o seleccionamos la columna que queramos modificar
 
 - API KEY
-
    -CREAR LA API
         - Entramos a [console.groq](https://console.groq.com/)
         - Nos loggeamos (con el correo o con github)
@@ -22,3 +21,4 @@ practica DIGI - Entrega 18/03
         - Elegimos API KEYS
         - Create API KEY
         - Le ponemos nombre y elegimos cuando queremos que expire
+   - INTRODUCIR UN MODELO
