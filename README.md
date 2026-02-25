@@ -14,7 +14,8 @@ practica DIGI - Entrega 18/03
           - Cambiamos el sql o seleccionamos la columna que queramos modificar
 
 - API KEY
-    -CREAR LA API
+
+   -CREAR LA API
         - Entramos a [console.groq](https://console.groq.com/)
         - Nos loggeamos (con el correo o con github)
         - Una vez dentro, le damos a las tres rayas de arriba a la derecha
